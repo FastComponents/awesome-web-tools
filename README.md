@@ -8,6 +8,8 @@
 
 - [Firebase Performance Monitoring](https://firebase.google.com/products/performance/)
 - [Lighthouse Performance Budgets on G I/O 19](https://www.youtube.com/watch?v=rUUazNIZW7I&feature=youtu.be&t=436)
+- [Lighthouse Performance Budgets](https://developers.google.com/web/tools/lighthouse/audits/budgets)
+- [Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance.
 
 ## Web Testing
