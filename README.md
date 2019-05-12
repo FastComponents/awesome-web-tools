@@ -3,6 +3,7 @@
 ## Performance Monitoring
 
 - [Firebase Performance Monitoring](https://firebase.google.com/products/performance/)
+- [Lighthouse Performance Budgets on G I/O 19](https://www.youtube.com/watch?v=rUUazNIZW7I&feature=youtu.be&t=436)
 
 ## Visual Testing
 - [Puppeteer](https://pptr.dev) - Node library which provides a high-level API to control Chrome or Chromium.
