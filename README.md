@@ -1,4 +1,4 @@
-# awesome-web-tools
+# Awesome Web Tools
 
 ## CSS
 
@@ -10,7 +10,7 @@
 - [Lighthouse Performance Budgets on G I/O 19](https://www.youtube.com/watch?v=rUUazNIZW7I&feature=youtu.be&t=436)
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance.
 
-## Visual Testing
+## Web Testing
 
 - [Puppeteer](https://pptr.dev) - Node library which provides a high-level API to control Chrome, Chromium, Firefox.
   - [Modern Web Testing and Automation with Puppeteer (Google I/O ’19)](https://www.youtube.com/watch?v=MbnATLCuKI4&list=PLNYkxOF6rcIATmAmz7HcCzongGvQEtx8i&index=16)
