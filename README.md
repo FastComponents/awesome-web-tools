@@ -11,6 +11,7 @@
 - [Lighthouse Performance Budgets](https://developers.google.com/web/tools/lighthouse/audits/budgets)
 - [Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance.
+- [tachometer](https://github.com/PolymerLabs/tachometer) - Tool for running benchmarks in web browsers.
 
 ## Web Testing
 
