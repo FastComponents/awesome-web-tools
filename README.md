@@ -4,6 +4,10 @@
 
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 
+## Images
+
+- [Squoosh](https://squoosh.app)
+
 ## Performance Monitoring
 
 - [Firebase Performance Monitoring](https://firebase.google.com/products/performance/)
