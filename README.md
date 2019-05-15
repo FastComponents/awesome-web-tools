@@ -12,6 +12,7 @@
 - [Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance.
 - [tachometer](https://github.com/PolymerLabs/tachometer) - Tool for running benchmarks in web browsers.
+  - [Run tachometer on Travis and report as a GitHub Check](https://github.com/Polymer/lit-html/pull/887)
 
 ## Web Testing
 
