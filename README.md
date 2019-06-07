@@ -1,5 +1,7 @@
 # Awesome Web Tools
 
+- [Useful Puppeteer demos](https://github.com/GoogleChromeLabs/puppeteer-examples)
+
 ## CSS
 
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
