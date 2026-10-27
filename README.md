@@ -8,6 +8,7 @@
 
 ## Images
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Browser image compressor and converter (PNG/JPG/HEIC/WebP/AVIF); core processing stays on-device
 - [Squoosh](https://squoosh.app)
 
 ## Performance Monitoring
